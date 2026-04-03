@@ -1,4 +1,4 @@
 ## 📥 Downloads
 
-- 🔹 [Demo v1](https://do.webjogos.top/uR07b)
-- 🔹 [Dev v2](https://do.webjogos.top/3gvti25)
+- 🔹 [Demo v1](https://liink.uk/IBUOkQMHzyhX)
+- 🔹 [Dev v2](https://liink.uk/nIngbwjRiZO3)
