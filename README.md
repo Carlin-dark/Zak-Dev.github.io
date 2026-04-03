@@ -12,7 +12,7 @@ Desenvolvedor indie em crescimento profissional, comprometido com a excelência 
 
 ### Especialidades
 
-- **Desenvolvimento de Jogos:** Godot Engine (GDScript, C#)
+- **Desenvolvimento de Jogos:** Godot Engine (GDScript)
 - **Plataformas:** Mobile (Android) e PC
 - **Áreas de Foco:** Mecânicas de gameplay, otimização de performance, design visual
 - **Inspiração Criativa:** Narrativas e estética anime
@@ -47,7 +47,7 @@ An indie developer in professional growth, committed to technical and creative e
 
 ### Specialties
 
-- **Game Development:** Godot Engine (GDScript, C#)
+- **Game Development:** Godot Engine (GDScript)
 - **Platforms:** Mobile (Android) and PC
 - **Focus Areas:** Game mechanics, performance optimization, visual design
 - **Creative Inspiration:** Anime narratives and aesthetics
@@ -82,7 +82,7 @@ Follow my repositories for ongoing projects and reference code in the field of g
 
 ### 専門性
 
-- **ゲーム開発:** Godot Engine (GDScript、C#)
+- **ゲーム開発:** Godot Engine (GDScript)
 - **プラットフォーム:** モバイル (Android) および PC
 - **焦点領域:** ゲームメカニクス、パフォーマンス最適化、ビジュアルデザイン
 - **創作的インスピレーション:** アニメのナラティブと美学
