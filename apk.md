@@ -1,4 +1,4 @@
 ## 📥 Downloads
 
-- 🔹 [Demo v1](https://liink.uk/IBUOkQMHzyhX)
-- 🔹 [Dev v2](https://liink.uk/nIngbwjRiZO3)
+- 🔹 [Demo v1](https://4br.me/XFUS)
+- 🔹 [Dev v2](https://4br.me/6bECwGUjI)
